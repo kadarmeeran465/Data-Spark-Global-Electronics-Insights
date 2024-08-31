@@ -28,4 +28,4 @@ The project delivers an EDA report featuring clean datasets, detailed insights i
 ## Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Data-Spark-Illuminating-Insights-for-Global-Electronics.git
+   git clone https://github.com/kadarmeeran465/Data-Spark-Illuminating-Insights-for-Global-Electronics.git
